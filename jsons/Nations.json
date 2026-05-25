@@ -42,8 +42,8 @@
 
     "tradeRequest": "I have come up with this exchange, it must benefit our people.",
 
-    "outerColor": [118, 0, 2],
-    "innerColor": [248, 218, 109],
+    "outerColor": [29, 41, 53],
+    "innerColor": [239, 184, 56],
 	"uniqueName": "The Good Neighbor",
 	"cities": ["Venatia"],
     "spyNames": ["Ethan","Alexis","Robert","Lachlan","Kaleb","Harriet","Mary","Denis"]
