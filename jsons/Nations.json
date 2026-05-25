@@ -9,7 +9,7 @@
 	"declaringWar": "This must be done, to unite the world under one nation, to end all war.",
 	"attacked": "I have seen enough wars to know when I have already won.",
 	"defeated": "This war has taken it's toll on me. I will leave this world behind with its horrors.",
-	"introduction": "Welcome to the Antares Imperium. The greatest nation of all Centaura.",
+	"introduction": "Welcome, stranger. I am Emperor Kalvin of Skorpius, Ara, Lupus and more. I hope you rule your lands as I do, through might.",
 
     "neutralHello": "Hello.",
     "hateHello": "What do YOU want!?",
@@ -45,6 +45,7 @@
     "outerColor": [29, 41, 53],
     "innerColor": [239, 184, 56],
 	"uniqueName": "The Good Neighbor",
+	"uniques": ["[+2 Gold] <in cities connected to the capital>","[+1 Gold] from every specialist [in all cities]"],
 	"cities": ["Venatia"],
     "spyNames": ["Ethan","Alexis","Robert","Lachlan","Kaleb","Harriet","Mary","Denis"]
 },
