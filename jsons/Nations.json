@@ -78,13 +78,13 @@
 	{
 		"name": "Aquila",
 		"adjective": ["Aquilan"],
-		"cityStateType": "Maritime",
+		"cityStateType": "Militaristic",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "It seems that the iron army has rusted...",
+		"defeated": "It seems that the iron army has finally rusted...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [217, 158, 78],
+		"innerColor": [18, 188, 221],
 		"cities": ["City"]
 	},
 	{
