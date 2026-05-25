@@ -19,6 +19,7 @@
     "outerColor": [118, 0, 2],
     "innerColor": [248, 218, 109],
 	"uniqueName": "Centaura Powerhouse",
+	"uniques": ["[+20]% XP gained from combat","[-50]% Unhappiness from [Population] [in resisting cities]","[-20]% Unhappiness from [Population] [in annexed cities]"],
 	"cities": ["Ananteria","Leto","Publika","Kharon","Tauberg","Apis","Port Drako","Solaris","Lunaris","Everdie",
 	           "Lesath","Krukis","Akov","Zakarta","Skorisa","Septrenti","Mortix","Thesom","Kanar","Okug","Port Adler",
 	           "Skorpa","Saint Erwin","Zair","Barlowsberg","Thermos"],
