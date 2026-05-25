@@ -15,8 +15,8 @@
 
     "tradeRequest": "I have come up with this exchange, it must benefit our people.",
 
-    "outerColor": [255, 26, 26],
-    "innerColor": [255, 255, 255],
+    "outerColor": [118, 0, 2],
+    "innerColor": [248, 218, 109],
 	"uniqueName": "Centaura Powerhouse",
 	"cities": ["Ananteria","Leto","Publika","Kharon","Tauberg","Apis","Port Drako","Solaris","Lunaris","Everdie",
 	           "Lesath","Krukis","Akov","Zakarta","Skorisa","Septrenti","Mortix","Thesom","Kanar","Okug","Port Adler",
