@@ -2,7 +2,7 @@
 	"name": "Antares",
 	"leaderName": "Emperor Tau",
 	"startBias": ["Grassland"],
-  "preferredVictoryType": "Domination",
+    "preferredVictoryType": "Domination",
 	"personality": "Tau",
 
 	"declaringWar": "This must be done, to unite the world under one nation, to end all war.",
@@ -10,14 +10,14 @@
 	"defeated": "This war has taken it's toll on me. I will leave this world behind with its horrors.",
 	"introduction": "Welcome to the Antares Imperium. The greatest nation of all Centaura.",
 
-  "neutralHello": "Hello.",
-  "hateHello": "What do YOU want!?",
+    "neutralHello": "Hello.",
+    "hateHello": "What do YOU want!?",
 
-  "tradeRequest": "I have come up with this exchange, it must benefit our people.",
+    "tradeRequest": "I have come up with this exchange, it must benefit our people.",
 
-  "outerColor": [255, 26, 26],
-  "innerColor": [255, 255, 255],
+    "outerColor": [255, 26, 26],
+    "innerColor": [255, 255, 255],
 	"uniqueName": "Antares Imperium",
 	"cities": ["Skorpius"],
-  "spyNames": ["Kevin","Ethan","Alexis"]
+    "spyNames": ["Kevin","Ethan","Alexis"]
 },
