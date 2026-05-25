@@ -12,5 +12,16 @@
 		"promotions": ["Shock I"],
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
+	},
+	{
+		"name": "Scorpio",
+		"unitType": "Aircraft Carrier",
+		"movement": 5,
+		"strength": 40,
+		"cost": 375,
+		"requiredTech": "Electronics",
+		"replaces": "Carrier",
+		"uniqueTo": "Antares",
+		"uniques": ["Cannot attack", "Can carry [3] [Aircraft] units"]
 	}
 ]
