@@ -1,6 +1,6 @@
 
 game.png
-size: 256, 256
+size: 512, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -9,5 +9,12 @@ NationIcons/Antares
   xy: 4, 4
   size: 228, 228
   orig: 228, 228
+  offset: 0, 0
+  index: -1
+UnitIcons/Shock Trooper
+  rotate: false
+  xy: 240, 104
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
