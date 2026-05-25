@@ -61,7 +61,7 @@
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [113, 227, 114],
-		"cities": ["City"]
+		"cities": ["Nauta"]
 	},
 	{
 		"name": "Corvus",
@@ -73,7 +73,7 @@
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [172, 172, 172],
-		"cities": ["City"]
+		"cities": ["Ravo"]
 	},
 	{
 		"name": "Aquila",
@@ -85,7 +85,7 @@
 		"defeated": "It seems that the iron army has finally rusted...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [18, 188, 221],
-		"cities": ["City"]
+		"cities": ["Volucris"]
 	},
 	{
 		"name": "Vega",
@@ -97,6 +97,6 @@
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
-		"cities": ["City"]
+		"cities": ["Santa Mireia"]
 	},
 ]
