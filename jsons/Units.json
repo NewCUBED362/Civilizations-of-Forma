@@ -7,8 +7,9 @@
 		"cost": 320,
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
-    "replaces": "Great War Infantry",
-    "uniqueTo": "Antares",
+        "replaces": "Great War Infantry",
+        "uniqueTo": "Antares",
+		"promotions": ["Shock I"],
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
 	}
