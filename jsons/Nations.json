@@ -25,4 +25,27 @@
 	           "Skorpa","Saint Erwin","Zair","Barlowsberg","Thermos"],
     "spyNames": ["Ethan","Alexis","Robert","Lachlan","Kaleb","Harriet","Mary","Denis"]
 },
+{
+	"name": "Orion",
+	"leaderName": "Ferdinand Powell",
+	"startBias": ["Grassland"],
+    "preferredVictoryType": "Diplomatic",
+	"personality": "Powell",
+
+	"declaringWar": "This must be done, to unite the world under one nation, to end all war.",
+	"attacked": "I have seen enough wars to know when I have already won.",
+	"defeated": "This war has taken it's toll on me. I will leave this world behind with its horrors.",
+	"introduction": "Welcome to the Antares Imperium. The greatest nation of all Centaura.",
+
+    "neutralHello": "Good day.",
+    "hateHello": "What is the matter?",
+
+    "tradeRequest": "I have come up with this exchange, it must benefit our people.",
+
+    "outerColor": [118, 0, 2],
+    "innerColor": [248, 218, 109],
+	"uniqueName": "The Good Neighbor",
+	"cities": ["Venatia"],
+    "spyNames": ["Ethan","Alexis","Robert","Lachlan","Kaleb","Harriet","Mary","Denis"]
+},
 ]
