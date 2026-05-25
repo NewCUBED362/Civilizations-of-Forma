@@ -32,10 +32,10 @@
     "preferredVictoryType": "Diplomatic",
 	"personality": "Powell",
 
-	"declaringWar": "This must be done, to unite the world under one nation, to end all war.",
-	"attacked": "I have seen enough wars to know when I have already won.",
-	"defeated": "This war has taken it's toll on me. I will leave this world behind with its horrors.",
-	"introduction": "Welcome to the Antares Imperium. The greatest nation of all Centaura.",
+	"declaringWar": "I hate it to be this way, but your idea of peace left me no choice.",
+	"attacked": "If I had to choose between righteousness and peace. I'd choose righteousness.",
+	"defeated": "Congratulations. Instead of the Orion Republic, your nation will go far...",
+	"introduction": "Welcome to the Orion Republic. If you conduct yourself well, you can consider us as friends.",
 
     "neutralHello": "Good day.",
     "hateHello": "What is the matter?",
