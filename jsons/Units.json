@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Shokk Tropper",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 52,
+		"cost": 320,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+    "replaces": "Great War Infantry",
+    "uniqueTo": "Antares",
+		"obsoleteTech": "Plastics",
+		"attackSound": "shot"
+	}
+]
