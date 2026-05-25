@@ -50,4 +50,53 @@
 	           "Corna","Almeis City","Fort Dira","Ceans Bay","Fairmont","Hyde Port","Palmsville","Sagia","Nepta","Coral City"],
     "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 },
+// City-States
+	{
+		"name": "Cetus",
+		"adjective": ["Cetan"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I have failed. May you, at least, know compassion towards our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [217, 158, 78],
+		"cities": ["City"]
+	},
+	{
+		"name": "Corvus",
+		"adjective": ["Corvan"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I have failed. May you, at least, know compassion towards our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [217, 158, 78],
+		"cities": ["City"]
+	},
+	{
+		"name": "Aquila",
+		"adjective": ["Aquilan"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It seems that the iron army has rusted...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [217, 158, 78],
+		"cities": ["City"]
+	},
+	{
+		"name": "Vega",
+		"adjective": ["Vegan"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I have failed. May you, at least, know compassion towards our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [217, 158, 78],
+		"cities": ["City"]
+	},
 ]
