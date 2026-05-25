@@ -1,6 +1,6 @@
 {
 	"name": "Antares",
-	"leaderName": "Emperor Tau",
+	"leaderName": "Kalvin Tau II",
 	"startBias": ["Grassland"],
     "preferredVictoryType": "Domination",
 	"personality": "Tau",
@@ -18,6 +18,6 @@
     "outerColor": [255, 26, 26],
     "innerColor": [255, 255, 255],
 	"uniqueName": "Antares Imperium",
-	"cities": ["Skorpius"],
+	"cities": ["Ananteria"],
     "spyNames": ["Kevin","Ethan","Alexis"]
 },
