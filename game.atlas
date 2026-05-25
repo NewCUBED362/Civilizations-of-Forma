@@ -11,9 +11,16 @@ NationIcons/Antares
   orig: 228, 228
   offset: 0, 0
   index: -1
-UnitIcons/Shock Trooper
+UnitIcons/Scorpio
   rotate: false
   xy: 240, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Shock Trooper
+  rotate: false
+  xy: 376, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
