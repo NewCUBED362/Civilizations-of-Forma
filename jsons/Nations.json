@@ -17,8 +17,9 @@
 
     "outerColor": [255, 26, 26],
     "innerColor": [255, 255, 255],
-	"uniqueName": "Antares Imperium",
+	"uniqueName": "Centaura Powerhouse",
 	"cities": ["Ananteria","Leto","Publika","Kharon","Tauberg","Apis","Port Drako","Solaris","Lunaris","Everdie",
-	           "Lesath","Krukis","Akov","Zakarta","Skorisa"],
-    "spyNames": ["Kevin","Ethan","Alexis"]
+	           "Lesath","Krukis","Akov","Zakarta","Skorisa","Septrenti","Mortix","Thesom","Kanar","Okug","Port Adler",
+	           "Skorpa","Saint Erwin","Zair","Barlowsberg","Thermos"],
+    "spyNames": ["Ethan","Alexis","Robert","Lachlan","Kaleb","Harriet","Mary","Denis"]
 },
