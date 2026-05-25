@@ -60,13 +60,13 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
-		"innerColor": [217, 158, 78],
+		"innerColor": [113, 227, 114],
 		"cities": ["City"]
 	},
 	{
 		"name": "Corvus",
 		"adjective": ["Corvan"],
-		"cityStateType": "Maritime",
+		"cityStateType": "Militaristic",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -90,13 +90,13 @@
 	{
 		"name": "Vega",
 		"adjective": ["Vegan"],
-		"cityStateType": "Maritime",
+		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
-		"innerColor": [217, 158, 78],
+		"innerColor": [255, 255, 255],
 		"cities": ["City"]
 	},
 ]
