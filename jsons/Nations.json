@@ -57,15 +57,15 @@
     "preferredVictoryType": "Scientific",
 	"personality": "Downes",
 
-	"declaringWar": "This must be done, to unite the world under one nation, to end all war.",
-	"attacked": "I have seen enough wars to know when I have already won.",
-	"defeated": "This war has taken it's toll on me. I will leave this world behind with its horrors.",
-	"introduction": "Welcome, stranger. I am Prime Minister Renald Downes of Hydrus, Lepus and Canis.",
+    "declaringWar": "By the grace of God, your days are numbered.",
+	"attacked": "Our nations won't be pushed and shoved around anymore, as those days are behind us.",
+	"defeated": "You have triumphed over us. The day is yours.",
+	"introduction": "I am Prime Minister Renald Downes, and I welcome you to the Commonwealth of Hydrus, Lepus, and Canis.",
 
     "neutralHello": "Hello.",
     "hateHello": "What?",
 
-    "tradeRequest": "I have come up with this exchange, it must benefit our people.",
+    "tradeRequest": "Would you like a trade agreement between us?",
 
     "outerColor": [118, 0, 2],
     "innerColor": [248, 218, 109],
