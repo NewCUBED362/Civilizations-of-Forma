@@ -4,6 +4,13 @@ size: 1024, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Crosby & Allen Co
+  rotate: false
+  xy: 476, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 NationIcons/Antares
   rotate: false
   xy: 4, 4
@@ -20,14 +27,14 @@ NationIcons/Orion
   index: -1
 UnitIcons/Scorpio
   rotate: false
-  xy: 476, 104
+  xy: 612, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Shokk Trooper
   rotate: false
-  xy: 612, 104
+  xy: 748, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
