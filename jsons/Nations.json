@@ -67,8 +67,8 @@
 
     "tradeRequest": "Would you like a trade agreement between us?",
 
-    "outerColor": [118, 0, 2],
-    "innerColor": [248, 218, 109],
+    "outerColor": [255, 255, 255],
+    "innerColor": [7, 50, 90],
 	"uniqueName": "Three-Nation Commonwealth",
 	"cities": ["Solevar"],
     "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne", "Natacha", "Alexei"]
