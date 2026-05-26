@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Shokk Tropper",
+		"name": "Shokk Trooper",
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 52,
@@ -23,5 +23,21 @@
 		"replaces": "Carrier",
 		"uniqueTo": "Antares",
 		"uniques": ["Cannot attack", "Can carry [3] [Aircraft] units"]
-	}
+	},
+	{
+		"name": "Hermes",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 59,
+		"rangedStrength": 59,
+		"range": 3,
+		"cost": 375,
+		"requiredResource": "Oil",
+		"requiredTech": "Electronics",
+		"replaces": "Battleship",
+		"uniqueTo": "Orion"
+		"promotions": ["Indirect Fire"],
+		"attackSound": "shipguns"
+		// Does not actually upgrade to Missile Cruisers
+	},
 ]
