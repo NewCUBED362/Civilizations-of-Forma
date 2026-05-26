@@ -52,6 +52,7 @@
 		"promotions": ["Ambush I"],
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
+		"uniques": ["[+25]% Strength <when fighting in [Desert] tiles>"],
 		"attackSound": "shot"
 	},
 ]
