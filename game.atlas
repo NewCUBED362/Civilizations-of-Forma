@@ -46,6 +46,13 @@ UnitIcons/Hermes
   orig: 128, 128
   offset: 0, 0
   index: -1
+UnitIcons/Maiandros
+  rotate: false
+  xy: 784, 140
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 UnitIcons/Scorpio
   rotate: false
   xy: 512, 4
