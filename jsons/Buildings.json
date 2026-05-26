@@ -1,10 +1,12 @@
 [
 	{
-		"name": "Military Academy",
+		"name": "Crosby & Allen Co",
+		"gold": 2,
 		"hurryCostModifier": 0,
-		"maintenance": 1,
 		"requiredBuilding": "Armory",
+		"requiredTech": "Military Science",
+		"replaces": "Military Academy",
+		"uniqueTo": "Orion"
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Military Science"
 	},
 ]
