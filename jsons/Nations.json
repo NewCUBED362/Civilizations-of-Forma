@@ -74,7 +74,7 @@
 		        "[+2 Gold] from [{Mine} {Luxury resource}] tiles [in all cities] <hidden from users>",
 		        "[+1 Production] from [{Mine} {Strategic resource}] tiles [in all cities] <hidden from users>"],
 	"cities": ["Solevar","Aludra","Port Mathieson","Melville","Cauda","Gomeisa","New Ilden","Rosfelt","Aecoris","Channel City","Curve Bay","Finnsberg",
-	           "Port Ellor"],
+	           "Port Ellor","Mount Gliese","Celesto","New Sarpis","Ironeye","Mirzam","Norton","Port Lewis","Cape Forrin","Garnsby","Arcton"],
     "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne", "Natacha", "Alexei"]
 },
 // City-States
