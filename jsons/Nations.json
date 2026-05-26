@@ -50,6 +50,29 @@
 	           "Corna","Almeis City","Fort Dira","Ceans Bay","Fairmont","Hyde Port","Palmsville","Sagia","Nepta","Coral City"],
     "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 },
+{
+	"name": "Hydrus",
+	"leaderName": "Renald Downes",
+	"startBias": ["Plains","Hill"],
+    "preferredVictoryType": "Scientific",
+	"personality": "Downes",
+
+	"declaringWar": "This must be done, to unite the world under one nation, to end all war.",
+	"attacked": "I have seen enough wars to know when I have already won.",
+	"defeated": "This war has taken it's toll on me. I will leave this world behind with its horrors.",
+	"introduction": "Welcome, stranger. I am Prime Minister Renald Downes of Hydrus, Lepus and Canis.",
+
+    "neutralHello": "Hello.",
+    "hateHello": "What?",
+
+    "tradeRequest": "I have come up with this exchange, it must benefit our people.",
+
+    "outerColor": [118, 0, 2],
+    "innerColor": [248, 218, 109],
+	"uniqueName": "Three-Nation Commonwealth",
+	"cities": ["Solevar"],
+    "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
+},
 // City-States
 	{
 		"name": "Cetus",
