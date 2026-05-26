@@ -32,23 +32,30 @@ NationIcons/Orion
   orig: 228, 228
   offset: 0, 0
   index: -1
-UnitIcons/Hermes
+UnitIcons/Grease Revolutionary
   rotate: false
   xy: 648, 140
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-UnitIcons/Scorpio
+UnitIcons/Hermes
   rotate: false
   xy: 784, 140
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-UnitIcons/Shokk Trooper
+UnitIcons/Scorpio
   rotate: false
   xy: 512, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Shokk Trooper
+  rotate: false
+  xy: 648, 4
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
