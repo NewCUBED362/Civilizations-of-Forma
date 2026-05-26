@@ -73,7 +73,8 @@
 	"uniques": ["Comment [+2 Gold from Mines over Luxury resources and +1 Production from Mines over Strategic resources]",
 		        "[+2 Gold] from [{Mine} {Luxury resource}] tiles [in all cities] <hidden from users>",
 		        "[+1 Production] from [{Mine} {Strategic resource}] tiles [in all cities] <hidden from users>"],
-	"cities": ["Solevar"],
+	"cities": ["Solevar","Aludra","Port Mathieson","Melville","Cauda","Gomeisa","New Ilden","Rosfelt","Aecoris","Channel City","Curve Bay","Finnsberg",
+	           "Port Ellor"],
     "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne", "Natacha", "Alexei"]
 },
 // City-States
