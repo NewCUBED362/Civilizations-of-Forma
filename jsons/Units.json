@@ -40,4 +40,18 @@
 		"attackSound": "shipguns"
 		// Does not actually upgrade to Missile Cruisers
 	},
+	{
+		"name": "Grease Revolutionary",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 32,
+		"cost": 185,
+		"requiredTech": "Rifling",
+		"replaces": "Rifleman",
+		"uniqueTo": "Hydrus",
+		"promotions": ["Ambush I"],
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
 ]
