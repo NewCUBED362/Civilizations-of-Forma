@@ -97,7 +97,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "I have failed. May you, at least, know compassion towards our people.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [172, 172, 172],
 		"cities": ["Ravo"]
@@ -145,7 +145,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "I have failed. May you, at least, know compassion towards our people.",
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [51, 97, 242],
 		"cities": ["Honnua"]
@@ -159,7 +159,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
-		"innerColor": [51, 97, 242],
+		"innerColor": [222, 237, 59],
 		"cities": ["Mundare"]
 	},
 ]
