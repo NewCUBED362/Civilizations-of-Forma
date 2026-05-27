@@ -1,68 +1,75 @@
 
 game.png
-size: 1024, 512
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Crosby & Allen Co
   rotate: false
-  xy: 512, 140
+  xy: 1020, 90
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Antares
   rotate: false
-  xy: 512, 276
+  xy: 1020, 226
   size: 228, 228
   orig: 228, 228
   offset: 0, 0
   index: -1
 NationIcons/Hydrus
   rotate: false
-  xy: 4, 54
+  xy: 4, 4
   size: 500, 450
   orig: 500, 450
   offset: 0, 0
   index: -1
 NationIcons/Orion
   rotate: false
-  xy: 748, 276
+  xy: 1256, 226
   size: 228, 228
   orig: 228, 228
   offset: 0, 0
   index: -1
+NationIcons/Ursa
+  rotate: false
+  xy: 512, 4
+  size: 500, 450
+  orig: 500, 450
+  offset: 0, 0
+  index: -1
 UnitIcons/Grease Revolutionary
   rotate: false
-  xy: 648, 140
+  xy: 1492, 326
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Hermes
   rotate: false
-  xy: 784, 140
+  xy: 1156, 90
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Maiandros
   rotate: false
-  xy: 784, 140
+  xy: 1156, 90
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Scorpio
   rotate: false
-  xy: 512, 4
+  xy: 1628, 326
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Shokk Trooper
   rotate: false
-  xy: 648, 4
+  xy: 1292, 90
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
