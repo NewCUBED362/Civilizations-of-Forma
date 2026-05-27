@@ -94,7 +94,7 @@
 
     "tradeRequest": "Here, deal with me.",
 
-    "outerColor": [99, 95, 98],
+    "outerColor": [130, 36, 52],
     "innerColor": [255, 204, 0],
 	"uniqueName": "House Magor",
 	"cities": ["Rudeya","Kisegrosk"],
