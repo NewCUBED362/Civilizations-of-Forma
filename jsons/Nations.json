@@ -77,6 +77,29 @@
 	           "Port Ellor","Mount Gliese","Celesto","New Sarpis","Ironeye","Mirzam","Norton","Port Lewis","Cape Forrin","Garnsby","Arcton"],
     "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne", "Natacha", "Alexei"]
 },
+{
+	"name": "Ursa",
+	"leaderName": "Konstin Magor",
+	"startBias": ["Tundra"],
+    "preferredVictoryType": "Domination",
+	"personality": "Magor",
+
+	"declaringWar": "This must be done, to unite the world under one nation, to end all war.",
+	"attacked": "I have seen enough wars to know when I have already won.",
+	"defeated": "This war has taken it's toll on me. I will leave this world behind with its horrors.",
+	"introduction": "Welcome, stranger. I am King Konstin Magor of Ursa. I hope you rule your lands as I do, through might.",
+
+    "neutralHello": "Hello.",
+    "hateHello": "What do YOU want!?",
+
+    "tradeRequest": "I have come up with this exchange, it must benefit our people.",
+
+    "outerColor": [118, 0, 2],
+    "innerColor": [248, 218, 109],
+	"uniqueName": "Ursan Federation",
+	"cities": ["Rudeya"],
+    "spyNames": ["James", "Skarlett", "Mykroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Skott", "Anne"]
+},
 // City-States
 	{
 		"name": "Cetus",
