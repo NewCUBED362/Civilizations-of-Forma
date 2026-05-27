@@ -94,8 +94,8 @@
 
     "tradeRequest": "Here, deal with me.",
 
-    "outerColor": [118, 0, 2],
-    "innerColor": [248, 218, 109],
+    "outerColor": [99, 95, 98],
+    "innerColor": [255, 204, 0],
 	"uniqueName": "House Magor",
 	"cities": ["Rudeya","Kisegrosk"],
     "spyNames": ["James", "Skarlett", "Mykroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Skott", "Anne"]
