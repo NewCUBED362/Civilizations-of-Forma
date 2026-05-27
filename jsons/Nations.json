@@ -120,7 +120,7 @@
 		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
+		"attacked": "We have a long stretch of desert plateau, with machine guns on every cliff face. And yet you still want to invade us?",
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
@@ -149,5 +149,17 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [51, 97, 242],
 		"cities": ["Honnua"]
+	},
+	{
+		"name": "Columba",
+		"adjective": ["Columban"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I have failed. May you, at least, know compassion towards our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [51, 97, 242],
+		"cities": ["Mundare"]
 	},
 ]
