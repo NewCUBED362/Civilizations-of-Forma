@@ -85,14 +85,14 @@
 	"personality": "Magor",
 
 	"declaringWar": "Let's end this false peace. Let there be war between us!",
-	"attacked": "I have seen enough wars to know when I have already won.",
+	"attacked": "Lets go! Finally, something to pit our navy up against.",
 	"defeated": "The Ursan people are now divided. But I'm sure my people will find the light, and be united once more..!",
-	"introduction": "Welcome, stranger. I am King Konstin Magor of Ursa. I hope you rule your lands as I do, through might.",
+	"introduction": "Welcome. I am Konstin, ruler of all of Ursa. You will find me a fair man to deal with. cruel, but fair.",
 
     "neutralHello": "What now?",
     "hateHello": "What do YOU want!?",
 
-    "tradeRequest": "I have come up with this exchange, it must benefit our people.",
+    "tradeRequest": "Here, deal with me.",
 
     "outerColor": [118, 0, 2],
     "innerColor": [248, 218, 109],
