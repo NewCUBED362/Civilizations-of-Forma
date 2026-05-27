@@ -138,4 +138,16 @@
 		"innerColor": [255, 255, 255],
 		"cities": ["Hadina"]
 	},
+	{
+		"name": "Auriga",
+		"adjective": ["Aurigan"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I have failed. May you, at least, know compassion towards our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Honnua"]
+	},
 ]
