@@ -147,7 +147,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
-		"innerColor": [255, 255, 255],
+		"innerColor": [51, 97, 242],
 		"cities": ["Honnua"]
 	},
 ]
