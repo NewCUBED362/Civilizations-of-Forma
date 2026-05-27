@@ -86,7 +86,7 @@
 
 	"declaringWar": "This must be done, to unite the world under one nation, to end all war.",
 	"attacked": "I have seen enough wars to know when I have already won.",
-	"defeated": "This war has taken it's toll on me. I will leave this world behind with its horrors.",
+	"defeated": "The Ursan people are now divided. But I'm sure my people will find the light, and be united once more..!",
 	"introduction": "Welcome, stranger. I am King Konstin Magor of Ursa. I hope you rule your lands as I do, through might.",
 
     "neutralHello": "Hello.",
@@ -96,8 +96,8 @@
 
     "outerColor": [118, 0, 2],
     "innerColor": [248, 218, 109],
-	"uniqueName": "Ursan Federation",
-	"cities": ["Rudeya"],
+	"uniqueName": "House Magor",
+	"cities": ["Rudeya","Kisegrosk"],
     "spyNames": ["James", "Skarlett", "Mykroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Skott", "Anne"]
 },
 // City-States
