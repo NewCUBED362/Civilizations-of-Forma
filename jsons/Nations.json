@@ -99,7 +99,8 @@
 	"uniqueName": "House Magor",
 	"uniques": ["[+50]% Production when constructing [{Military} {Water}] units [in all cities] <when not at war>",
 		        "May buy [{Military} {Water}] units with [Gold] [in all cities] <when not at war>"],
-	"cities": ["Rudeya","Kisegrosk"],
+	"cities": ["Rudeya","Kisegrosk","Yildun","Ulsterdam","Polarii","Kerzav","Yurslaka","Kerski Gap","Bilancia","Pherkad",
+	           "Orletsy","Peyrom","Kalmar","Cervano","Oz","Riakkaz","Kuznetia","Auremus","Zapovak","Aumel","Dubhe","Alkaid"],
     "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
 },
 // City-States
