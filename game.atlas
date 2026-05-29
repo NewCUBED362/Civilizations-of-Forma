@@ -53,6 +53,13 @@ UnitIcons/Hermes
   orig: 128, 128
   offset: 0, 0
   index: -1
+UnitIcons/Kiroluga
+  rotate: false
+  xy: 1156, 90
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 UnitIcons/Maiandros
   rotate: false
   xy: 1156, 90
