@@ -70,4 +70,18 @@
 		    "[+1] Sight"],
 		"attackSound": "shipguns"
 	},
+	{
+		"name": "Kiroluga",
+		"unitType": "Melee Water",
+		"movement": 6,
+		"strength": 55,
+		"interceptRange": 2,
+		"cost": 375,
+		"requiredTech": "Combustion",
+		"replaces": "Destroyer",
+		"uniqueTo": "Ursa",
+		"uniques": ["Can see invisible [Submarine] units", "[40]% chance to intercept air attacks",
+			"Withdraws before melee combat <with [80]% chance>", "[+100]% Strength <vs [Submarine] units>"],
+		"attackSound": "shipguns"
+	},
 ]
