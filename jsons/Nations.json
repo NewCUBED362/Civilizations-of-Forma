@@ -113,21 +113,21 @@
     "preferredVictoryType": "Scientific",
 	"personality": "Scapha",
 
-	"declaringWar": "You left us no other choice. War it must be.",
+	"declaringWar": "You shall stain this land no longer with your vileness!",
 	"attacked": "Ha ha ha, admiral Lewis Arthur will be very glad to head out to war again.",
 	"defeated": "Cetus lost this war to no fault of my own. I blame it on those damned generals and admirals, with their constant squabbling all the time.",
 	"introduction": "Stranger, welcome to the Empire of Cetus! I am Frederick Scapha, member of the esteemed House of Scapha.",
 
     "neutralHello": "Greetings.",
-    "hateHello": "What do YOU want!?",
+    "hateHello": "What do you want?",
 
-    "tradeRequest": "Hi.",
+    "tradeRequest": "I believe I have something that may be of some importance to you.",
 
     "outerColor": [255, 255, 255],
     "innerColor": [0, 0, 0],
 	"uniqueName": "Cetus",
 	"cities": ["Nauta"],
-    "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
+    "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
 },
 // City-States - All
 	{
