@@ -123,8 +123,8 @@
 
     "tradeRequest": "I believe I have something that may be of some importance to you.",
 
-    "outerColor": [255, 255, 255],
-    "innerColor": [0, 0, 0],
+    "outerColor": [65, 90, 65],
+    "innerColor": [239, 184, 56],
 	"uniqueName": "Cetus",
 	"cities": ["Nauta"],
     "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
