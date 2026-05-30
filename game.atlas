@@ -6,77 +6,84 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Crosby & Allen Co
   rotate: false
-  xy: 1020, 90
+  xy: 1528, 140
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Antares
   rotate: false
-  xy: 1020, 226
+  xy: 1528, 276
   size: 228, 228
   orig: 228, 228
   offset: 0, 0
   index: -1
+NationIcons/Cetus
+  rotate: false
+  xy: 4, 54
+  size: 500, 450
+  orig: 500, 450
+  offset: 0, 0
+  index: -1
 NationIcons/Hydrus
   rotate: false
-  xy: 4, 4
+  xy: 512, 54
   size: 500, 450
   orig: 500, 450
   offset: 0, 0
   index: -1
 NationIcons/Orion
   rotate: false
-  xy: 1256, 226
+  xy: 1764, 276
   size: 228, 228
   orig: 228, 228
   offset: 0, 0
   index: -1
 NationIcons/Ursa
   rotate: false
-  xy: 512, 4
+  xy: 1020, 54
   size: 500, 450
   orig: 500, 450
   offset: 0, 0
   index: -1
 UnitIcons/Grease Revolutionary
   rotate: false
-  xy: 1492, 326
+  xy: 1664, 140
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Hermes
   rotate: false
-  xy: 1156, 90
+  xy: 1800, 140
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Kiroluga
   rotate: false
-  xy: 1156, 90
+  xy: 1800, 140
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Maiandros
   rotate: false
-  xy: 1156, 90
+  xy: 1800, 140
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Scorpio
   rotate: false
-  xy: 1628, 326
+  xy: 1528, 4
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Shokk Trooper
   rotate: false
-  xy: 1292, 90
+  xy: 1664, 4
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
