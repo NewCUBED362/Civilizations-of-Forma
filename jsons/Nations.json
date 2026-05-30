@@ -1,4 +1,5 @@
 [
+	// Dead Ahead
 {
 	"name": "Antares",
 	"leaderName": "Kalvin Tau II",
@@ -104,19 +105,31 @@
 	           "Orletsy","Peyrom","Kalmar","Cervano","Oz","Riakkaz","Kuznetia","Auremus","Zapovak","Aumel","Dubhe","Alkaid"],
     "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
 },
-// City-States
-	{
-		"name": "Cetus",
-		"adjective": ["Cetan"],
-		"cityStateType": "Maritime",
+	// Centaura 
+{
+	"name": "Cetus",
+	"leaderName": "Monarch",
+	"startBias": ["Coast","Grassland"],
+    "preferredVictoryType": "Scientific",
+	"personality": "Cetus",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "I have failed. May you, at least, know compassion towards our people.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [113, 227, 114],
-		"cities": ["Nauta"]
-	},
+	"declaringWar": "Let's end this false peace. Let there be war between us!",
+	"attacked": "Lets go! Finally, something to pit our navy up against.",
+	"defeated": "The Ursan people are now divided. But I'm sure my people will find the light, and be united once more..!",
+	"introduction": "Welcome. I am Konstin, ruler of all of Ursa. You will find me a fair man to deal with. cruel, but fair.",
+
+    "neutralHello": "What now?",
+    "hateHello": "What do YOU want!?",
+
+    "tradeRequest": "Here, deal with me.",
+
+    "outerColor": [255, 255, 255],
+    "innerColor": [0, 0, 0],
+	"uniqueName": "Cetus",
+	"cities": ["Nauta"],
+    "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
+},
+// City-States - All
 	{
 		"name": "Corvus",
 		"adjective": ["Corvan"],
