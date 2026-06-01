@@ -126,6 +126,7 @@
     "outerColor": [65, 90, 65],
     "innerColor": [239, 184, 56],
 	"uniqueName": "Army of the Sea",
+	"uniques": ["[+1] Sight <for [{Military} {Water}] units>","[-100]% maintenance costs <for [Water] units>"],
 	"cities": ["Nauta","Mira","St. Kirk","Carran","Deimos","Alchiba","Pelion","Ermanis","Fortisa","Wyoia","Xi",
 	           "Diphda","Argo","Morric","Menkar","Roxamir","Osrho","Llewelynburg","Kelson Village","Typhon","Fellxus",
 	           "Skafos","Ceciltown","Fortchester"],
