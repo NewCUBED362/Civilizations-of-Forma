@@ -1,96 +1,103 @@
 
 game.png
-size: 2048, 512
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Crosby & Allen Co
   rotate: false
-  xy: 1528, 140
+  xy: 512, 90
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Scaphan Line
+  rotate: false
+  xy: 884, 326
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Antares
   rotate: false
-  xy: 1528, 276
+  xy: 512, 226
   size: 228, 228
   orig: 228, 228
   offset: 0, 0
   index: -1
 NationIcons/Cetus
   rotate: false
-  xy: 4, 54
+  xy: 4, 462
   size: 500, 450
   orig: 500, 450
   offset: 0, 0
   index: -1
 NationIcons/Hydrus
   rotate: false
-  xy: 512, 54
+  xy: 4, 4
   size: 500, 450
   orig: 500, 450
   offset: 0, 0
   index: -1
 NationIcons/Orion
   rotate: false
-  xy: 1764, 276
+  xy: 1020, 684
   size: 228, 228
   orig: 228, 228
   offset: 0, 0
   index: -1
 NationIcons/Ursa
   rotate: false
-  xy: 1020, 54
+  xy: 512, 462
   size: 500, 450
   orig: 500, 450
   offset: 0, 0
   index: -1
 UnitIcons/Exercitus Maris
   rotate: false
-  xy: 1664, 140
+  xy: 748, 326
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Grease Revolutionary
   rotate: false
-  xy: 1800, 140
+  xy: 1020, 548
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Hermes
   rotate: false
-  xy: 1528, 4
+  xy: 1256, 784
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Kiroluga
   rotate: false
-  xy: 1528, 4
+  xy: 1256, 784
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Maiandros
   rotate: false
-  xy: 1528, 4
+  xy: 1256, 784
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Scorpio
   rotate: false
-  xy: 1664, 4
+  xy: 1020, 412
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Shokk Trooper
   rotate: false
-  xy: 1800, 4
+  xy: 1392, 784
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
