@@ -11,6 +11,7 @@
 	},
 	{
 		"name": "Scaphan Line",
+		"requiredNearbyImprovedResources": ["Iron"],
 		"cost": 400,
 		"cityStrength": 6,
 		"cityHealth": 25,
