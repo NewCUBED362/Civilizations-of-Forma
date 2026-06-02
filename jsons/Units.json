@@ -90,7 +90,7 @@
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 50,
-		"cost": 190,
+		"cost": 270,
 		"requiredTech": "Replaceable Parts",
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Cetus",
