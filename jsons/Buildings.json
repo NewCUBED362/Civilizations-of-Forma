@@ -19,6 +19,6 @@
 		"requiredTech": "Metallurgy",
 		"replaces": "Arsenal",
 		"uniqueTo": "Cetus"
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured","[-1] Movement <for [Hostile] units> <in this city>"]
 	}
 ]
