@@ -3,5 +3,5 @@ Civilizations of Forma. A mod which adds Civs from the Forma universe for the ga
 
 # Change Log
 - added civ: Cetus.
-- added unit: 
+- added unit: Exercitus Maris
 - added building: Scaphan Line
