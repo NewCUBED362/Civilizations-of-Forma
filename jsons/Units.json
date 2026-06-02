@@ -94,6 +94,8 @@
 		"requiredTech": "Replaceable Parts",
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Cetus",
+		"uniques": ["[0] Movement point cost to disembark"],
+		"promotions": ["Amphibious"],
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
