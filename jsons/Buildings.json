@@ -9,4 +9,16 @@
 		"uniqueTo": "Orion"
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
 	},
+	{
+		"name": "Scaphan Line",
+		"cost": 400,
+		"cityStrength": 6,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Castle",
+		"requiredTech": "Metallurgy",
+		"replaces": "Arsenal",
+		"uniqueTo": "Cetus"
+		"uniques": ["Destroyed when the city is captured"]
+	}
 ]
