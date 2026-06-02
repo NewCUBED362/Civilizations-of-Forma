@@ -46,44 +46,51 @@ NationIcons/Ursa
   orig: 500, 450
   offset: 0, 0
   index: -1
-UnitIcons/Grease Revolutionary
+UnitIcons/Exercitus Maris
   rotate: false
   xy: 1664, 140
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
+UnitIcons/Grease Revolutionary
+  rotate: false
+  xy: 1800, 140
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 UnitIcons/Hermes
-  rotate: false
-  xy: 1800, 140
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-UnitIcons/Kiroluga
-  rotate: false
-  xy: 1800, 140
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-UnitIcons/Maiandros
-  rotate: false
-  xy: 1800, 140
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-UnitIcons/Scorpio
   rotate: false
   xy: 1528, 4
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-UnitIcons/Shokk Trooper
+UnitIcons/Kiroluga
+  rotate: false
+  xy: 1528, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Maiandros
+  rotate: false
+  xy: 1528, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Scorpio
   rotate: false
   xy: 1664, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Shokk Trooper
+  rotate: false
+  xy: 1800, 4
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
