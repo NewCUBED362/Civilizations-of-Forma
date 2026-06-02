@@ -85,4 +85,17 @@
 			        "Withdraws before melee combat <with [80]% chance>", "[+100]% Strength <vs [Submarine] units>"],
 		"attackSound": "shipguns"
 	},
+	{
+		"name": "Exercitus Maris",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 50,
+		"cost": 190,
+		"requiredTech": "Replaceable Parts",
+		"replaces": "Great War Infantry",
+		"uniqueTo": "Cetus",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"attackSound": "shot"
+	},
 ]
