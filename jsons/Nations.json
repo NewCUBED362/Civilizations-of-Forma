@@ -132,6 +132,29 @@
 	           "Skafos","Ceciltown","Fortchester"],
     "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
 },
+{
+	"name": "Corvus",
+	"leaderName": "Oliver Khorin",
+	"startBias": ["Coast","Hill"],
+    "preferredVictoryType": "Scientific",
+	"personality": "Khorin",
+
+	"declaringWar": "You shall stain this land no longer with your vileness!",
+	"attacked": "Ha ha ha, admiral Lewis Arthur will be very glad to head out to war again.",
+	"defeated": "Perhaps, in another world, we could have been friends...",
+	"introduction": "Stranger, welcome to the Corvus! I am Oliver Khorin, member of the esteemed House of Khorin.",
+
+    "neutralHello": "Good morning.",
+    "hateHello": "What do you want?",
+
+    "tradeRequest": "I believe I have something that may be of some importance to you.",
+
+    "outerColor": [255, 255, 255],
+    "innerColor": [8, 8, 8],
+	"uniqueName": "Confederation of Corvus",
+	"cities": ["Ravo"],
+    "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
+},
 // City-States - All
 	{
 		"name": "Corvus",
@@ -140,7 +163,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
+		"defeated": "",
 		"outerColor": [0, 0, 0],
 		"innerColor": [172, 172, 172],
 		"cities": ["Ravo"]
