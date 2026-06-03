@@ -157,18 +157,6 @@
 },
 // City-States - All
 	{
-		"name": "Corvus",
-		"adjective": ["Corvan"],
-		"cityStateType": "Militaristic",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "",
-		"outerColor": [0, 0, 0],
-		"innerColor": [172, 172, 172],
-		"cities": ["Ravo"]
-	},
-	{
 		"name": "Aquila",
 		"adjective": ["Aquilan"],
 		"cityStateType": "Militaristic",
