@@ -139,13 +139,13 @@
     "preferredVictoryType": "Scientific",
 	"personality": "Khorin",
 
-	"declaringWar": "You shall stain this land no longer with your vileness!",
-	"attacked": "Ha ha ha, admiral Lewis Arthur will be very glad to head out to war again.",
+	"declaringWar": "It's time to take back what is rightfully mine.",
+	"attacked": "Ugh, how short sighted..!",
 	"defeated": "Perhaps, in another world, we could have been friends...",
-	"introduction": "Stranger, welcome to the Corvus! I am Oliver Khorin, member of the esteemed House of Khorin.",
+	"introduction": "Welcome to the Confederation of Corvus, friend. Ahh, can you smell that? The industrial heartland of Corvus?",
 
     "neutralHello": "Good morning.",
-    "hateHello": "What do you want?",
+    "hateHello": "Quit wasting my time...",
 
     "tradeRequest": "I believe I have something that may be of some importance to you.",
 
