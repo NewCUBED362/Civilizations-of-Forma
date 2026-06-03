@@ -6,21 +6,21 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Crosby & Allen Co
   rotate: false
-  xy: 512, 90
+  xy: 1256, 784
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Scaphan Line
   rotate: false
-  xy: 884, 326
+  xy: 1020, 176
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Antares
   rotate: false
-  xy: 512, 226
+  xy: 1020, 684
   size: 228, 228
   orig: 228, 228
   offset: 0, 0
@@ -32,72 +32,79 @@ NationIcons/Cetus
   orig: 500, 450
   offset: 0, 0
   index: -1
-NationIcons/Hydrus
+NationIcons/Corvus
   rotate: false
   xy: 4, 4
   size: 500, 450
   orig: 500, 450
   offset: 0, 0
   index: -1
-NationIcons/Orion
-  rotate: false
-  xy: 1020, 684
-  size: 228, 228
-  orig: 228, 228
-  offset: 0, 0
-  index: -1
-NationIcons/Ursa
+NationIcons/Hydrus
   rotate: false
   xy: 512, 462
   size: 500, 450
   orig: 500, 450
   offset: 0, 0
   index: -1
+NationIcons/Orion
+  rotate: false
+  xy: 1020, 448
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+NationIcons/Ursa
+  rotate: false
+  xy: 512, 4
+  size: 500, 450
+  orig: 500, 450
+  offset: 0, 0
+  index: -1
 UnitIcons/Exercitus Maris
   rotate: false
-  xy: 748, 326
+  xy: 1020, 312
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Grease Revolutionary
   rotate: false
-  xy: 1020, 548
+  xy: 1256, 648
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Hermes
   rotate: false
-  xy: 1256, 784
+  xy: 1392, 784
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Kiroluga
   rotate: false
-  xy: 1256, 784
+  xy: 1392, 784
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Maiandros
   rotate: false
-  xy: 1256, 784
+  xy: 1392, 784
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Scorpio
   rotate: false
-  xy: 1020, 412
+  xy: 1256, 512
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Shokk Trooper
   rotate: false
-  xy: 1392, 784
+  xy: 1392, 648
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
