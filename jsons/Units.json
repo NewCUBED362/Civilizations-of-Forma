@@ -100,4 +100,17 @@
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
 	},
+	{
+		"name": "Revanchist Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 50,
+		"cost": 285,
+		"requiredTech": "Replaceable Parts",
+		"replaces": "Great War Infantry",
+		"uniqueTo": "Corvus",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"attackSound": "shot"
+	},
 ]
