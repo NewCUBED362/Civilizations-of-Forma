@@ -21,5 +21,19 @@
 		"replaces": "Arsenal",
 		"uniqueTo": "Cetus"
 		"uniques": ["Destroyed when the city is captured","[-1] Movement <for [Hostile] units> <in this city>"]
+	},
+	{
+		"name": "Coal Power Plant",
+		"requiredNearbyImprovedResources": ["Coal"],
+		"cost": 360,
+		"production": 5,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 2},
+		"requiredBuilding": "Workshop",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredTech": "Industrialization",
+		"replaces": "Factory",
+		"uniqueTo": "Corvus"
 	}
 ]
