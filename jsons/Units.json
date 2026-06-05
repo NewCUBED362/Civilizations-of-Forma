@@ -109,6 +109,7 @@
 		"requiredTech": "Replaceable Parts",
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Corvus",
+		"promotions": ["Survivalism I"],
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
