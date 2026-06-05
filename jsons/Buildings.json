@@ -34,6 +34,7 @@
 		"hurryCostModifier": 0,
 		"requiredTech": "Industrialization",
 		"replaces": "Factory",
-		"uniqueTo": "Corvus"
+		"uniqueTo": "Corvus",
+		"uniques": ["[+100]% [Coal] resource production <in this city>"],
 	}
 ]
