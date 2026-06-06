@@ -178,6 +178,7 @@
     "outerColor": [32, 95, 173],
     "innerColor": [255, 255, 255],
 	"uniqueName": "Iron Army",
+	"uniques": ["[+50]% Strength <for [Military] units> <when fighting in [your] tiles>","[+1 Production] from [Lumber mill] tiles [in all cities]"],
 	"cities": ["Volucris","Talona","Reda","Vista","New Avia","Libertus","Novaria","Altair","Vela","Vectis","Neopoli","Alsaine","Segare",
 		       "Cremona","Altinum","Dertosa","Lita","Capena","Lentia","Isara","Antonus","Rhodanos","Volans","Vicentia","Solore",
 		       "Persea","Ratiara","Cauda","Vendinum"],
