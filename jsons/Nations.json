@@ -158,19 +158,31 @@
 	           "Nearwel","Cuerva","Weyburn","New Archive"],
     "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
 },
-// City-States - All
-	{
-		"name": "Aquila",
-		"adjective": ["Aquilan"],
-		"cityStateType": "Militaristic",
+{
+	"name": "Aquila",
+	"leaderName": "Bob James",
+	"startBias": ["Forest","Plains"],
+    "preferredVictoryType": "Scientific",
+	"personality": "Khorin",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "It seems that the iron army has finally rusted...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [18, 188, 221],
-		"cities": ["Volucris"]
-	},
+	"declaringWar": "It's time to take back what is rightfully mine.",
+	"attacked": "Ugh, how short sighted..!",
+	"defeated": "Perhaps, in another world, we could have been friends...",
+	"introduction": "Welcome to the Confederation of Corvus, friend. Ahh, can you smell that? The industrial hub of Corvus?",
+
+    "neutralHello": "Good morning.",
+    "hateHello": "Quit wasting my time...",
+
+    "tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+
+    "outerColor": [32, 95, 173],
+    "innerColor": [255, 255, 255],
+	"uniqueName": "Iron Army",
+	"cities": ["Volucris","Talona"],
+    "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
+},
+
+// City-States - All
 	{
 		"name": "Vega",
 		"adjective": ["Vegan"],
@@ -218,5 +230,5 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [222, 237, 59],
 		"cities": ["Mundare"]
-	},
+	}
 ]
