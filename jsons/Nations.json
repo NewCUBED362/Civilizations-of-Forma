@@ -162,18 +162,18 @@
 	"name": "Aquila",
 	"leaderName": "Evan Fowler",
 	"startBias": ["Forest","Plains"],
-    "preferredVictoryType": "Scientific",
+    "preferredVictoryType": "Cultural",
 	"personality": "Fowler",
 
-	"declaringWar": "It's time to take back what is rightfully mine.",
-	"attacked": "Ugh, how short sighted..!",
-	"defeated": "Perhaps, in another world, we could have been friends...",
+	"declaringWar": "You're disturbing us, prepare for war.",
+	"attacked": "Very well, we will prepare to fend you off.",
+	"defeated": "You have defeated us... It seems that the iron army has finally rusted...",
 	"introduction": "I am First Minister Evan Leonard Fowler, and I welcome you to the Kingdom of Aquila.",
 
     "neutralHello": "Hello",
     "hateHello": "So? What is it?",
 
-    "tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+    "tradeRequest": "Aquila offers you this exceptional proposition.",
 
     "outerColor": [32, 95, 173],
     "innerColor": [255, 255, 255],
