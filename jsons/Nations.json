@@ -160,18 +160,18 @@
 },
 {
 	"name": "Aquila",
-	"leaderName": "Bob James",
+	"leaderName": "Evan Fowler",
 	"startBias": ["Forest","Plains"],
     "preferredVictoryType": "Scientific",
-	"personality": "Khorin",
+	"personality": "Fowler",
 
 	"declaringWar": "It's time to take back what is rightfully mine.",
 	"attacked": "Ugh, how short sighted..!",
 	"defeated": "Perhaps, in another world, we could have been friends...",
-	"introduction": "Welcome to the Confederation of Corvus, friend. Ahh, can you smell that? The industrial hub of Corvus?",
+	"introduction": "I am First Minister Evan Leonard Fowler, and I welcome you to the Kingdom of Aquila.",
 
-    "neutralHello": "Good morning.",
-    "hateHello": "Quit wasting my time...",
+    "neutralHello": "Hello",
+    "hateHello": "So? What is it?",
 
     "tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
 
