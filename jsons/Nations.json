@@ -178,7 +178,9 @@
     "outerColor": [32, 95, 173],
     "innerColor": [255, 255, 255],
 	"uniqueName": "Iron Army",
-	"cities": ["Volucris","Talona"],
+	"cities": ["Volucris","Talona","Reda","Vista","New Avia","Libertus","Novaria","Altair","Vela","Vectis","Neopoli","Alsaine","Segare",
+		       "Cremona","Altinum","Dertosa","Lita","Capena","Lentia","Isara","Antonus","Rhodanos","Volans","Vicentia","Solore",
+		       "Persea","Ratiara","Cauda","Vendinum"],
     "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
 },
 
