@@ -196,7 +196,8 @@
     "outerColor": [255, 255, 255],
     "innerColor": [231, 172, 23],
 	"uniqueName": "Murus Plateau",
-	"cities": ["Santa Mireia","Murus Plateau","Bastião Ventoso","Abrigo Dezenove"],
+	"cities": ["Santa Mireia","Murus Plateau","Bastião Ventoso","Abrigo Dezenove","Sulafat Harbour","Aladfar","Muras","São Lionel",
+	           "Fort Harper","Navalis","São Fernando","Vurus","Tómsai","Fort Comusa","Iron Ridge"],
     "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
 },
 
