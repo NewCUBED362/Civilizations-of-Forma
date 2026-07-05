@@ -13,7 +13,7 @@ BuildingIcons/Crosby & Allen Co
   index: -1
 BuildingIcons/Scaphan Line
   rotate: false
-  xy: 1392, 326
+  xy: 1900, 784
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -67,51 +67,58 @@ NationIcons/Ursa
   orig: 500, 450
   offset: 0, 0
   index: -1
-UnitIcons/Exercitus Maris
+NationIcons/Vega
   rotate: false
-  xy: 1256, 326
-  size: 128, 128
-  orig: 128, 128
+  xy: 1256, 226
+  size: 228, 228
+  orig: 228, 228
   offset: 0, 0
   index: -1
-UnitIcons/Grease Revolutionary
+UnitIcons/Exercitus Maris
   rotate: false
   xy: 1528, 548
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-UnitIcons/Hermes
+UnitIcons/Grease Revolutionary
   rotate: false
   xy: 1764, 784
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Hermes
+  rotate: false
+  xy: 1156, 90
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Kiroluga
   rotate: false
-  xy: 1764, 784
+  xy: 1156, 90
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Maiandros
   rotate: false
-  xy: 1764, 784
+  xy: 1156, 90
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Scorpio
   rotate: false
-  xy: 1528, 412
+  xy: 1292, 90
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Shokk Trooper
   rotate: false
-  xy: 1900, 784
+  xy: 1664, 548
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
