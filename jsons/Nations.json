@@ -179,40 +179,28 @@
 },
 {
 	"name": "Vega",
-	"leaderName": "Verde",
+	"leaderName": "Lucia Verde",
 	"startBias": ["Hill","Plains"],
     "preferredVictoryType": "Cultural",
 
-	"declaringWar": "You're disturbing us, prepare for war.",
-	"attacked": "Very well, we will prepare to fend you off.",
-	"defeated": "You have defeated us... It seems that the iron army has finally rusted...",
-	"introduction": "I am First Minister Evan Leonard Fowler, and I welcome you to the Kingdom of Aquila.",
+	"declaringWar": "I will not bow down to the likes of you!",
+	"attacked": "Hahaha, Have fun trying to climb our plateaus mounted with machine guns, bunkers and barbed wire.",
+	"defeated": "Oh, I knew there was a gap in our defence somewhere. It's a shame I didn't realise it until I was too late.",
+	"introduction": "Good morning. Lucia Verde of Vega. Do not underestimate me, for I have done a lot for my dominion.",
 
-    "neutralHello": "Hello",
-    "hateHello": "So? What is it?",
+    "neutralHello": "Olá.",
+    "hateHello": "Hmph...",
 
-    "tradeRequest": "Aquila offers you this exceptional proposition.",
+    "tradeRequest": "Let us have a trade agreement. What do you say..?",
 
     "outerColor": [32, 95, 173],
     "innerColor": [255, 255, 255],
-	"uniqueName": "Vega",
-	"cities": ["Santa Mireia"],
+	"uniqueName": "Murus Plateau",
+	"cities": ["Santa Mireia","Murus Plateau"],
     "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
 },
 
 // City-States - All
-	{
-		"name": "Vega",
-		"adjective": ["Vegan"],
-		"cityStateType": "Cultured",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "We have a long stretch of desert plateau, with machine guns on every cliff face. And yet you still want to invade us?",
-		"defeated": "I have failed. May you, at least, know compassion towards our people.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255, 255, 255],
-		"cities": ["Santa Mireia"]
-	},
 	{
 		"name": "Riaa",
 		"adjective": ["Riaan"],
