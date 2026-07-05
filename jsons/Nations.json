@@ -193,8 +193,8 @@
 
     "tradeRequest": "Let us have a trade agreement. What do you say..?",
 
-    "outerColor": [32, 95, 173],
-    "innerColor": [255, 255, 255],
+    "outerColor": [255, 255, 255],
+    "innerColor": [231, 172, 23],
 	"uniqueName": "Murus Plateau",
 	"cities": ["Santa Mireia","Murus Plateau"],
     "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
