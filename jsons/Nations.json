@@ -177,6 +177,28 @@
 		       "Persea","Ratiara","Cauda","Vendinum"],
     "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
 },
+{
+	"name": "Vega",
+	"leaderName": "Verde",
+	"startBias": ["Hill","Plains"],
+    "preferredVictoryType": "Cultural",
+
+	"declaringWar": "You're disturbing us, prepare for war.",
+	"attacked": "Very well, we will prepare to fend you off.",
+	"defeated": "You have defeated us... It seems that the iron army has finally rusted...",
+	"introduction": "I am First Minister Evan Leonard Fowler, and I welcome you to the Kingdom of Aquila.",
+
+    "neutralHello": "Hello",
+    "hateHello": "So? What is it?",
+
+    "tradeRequest": "Aquila offers you this exceptional proposition.",
+
+    "outerColor": [32, 95, 173],
+    "innerColor": [255, 255, 255],
+	"uniqueName": "Vega",
+	"cities": ["Santa Mireia"],
+    "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
+},
 
 // City-States - All
 	{
